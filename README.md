@@ -1,2 +1,3 @@
 # HKUST-Template-ppt
-HKUST powerpoint template for presentation
+This is a ppt template of HKUST style for presentations. 
+I'll appreciate it if you could leave a star before using my template.
